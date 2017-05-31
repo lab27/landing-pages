@@ -1,0 +1,22 @@
+<div class="row expanded clearfix" id="helpbar" style="visibility:hidden;opacity:0">
+  <div class="row expanded" id="helptext">
+
+
+      {% for mainitem in site.data.menus.ul.li %}
+      <div class="menu-col">
+      <ul class="menu vertical">
+
+        <li class="cat">
+          <a href="http://bos-schweiz.ch{{mainitem.a._href}}">{{mainitem.a.__text}}</a>
+        </li>
+                {% for nesteditem in mainitem.ul.li %}
+                <li><a href="http://bos-schweiz.ch{{nesteditem.a._href}}">
+                  {{nesteditem.a.__text}}
+                </a></li>
+                {% endfor %}
+      </ul>
+    </div>
+      {% endfor %}
+  </div>
+  <button id="close-help"><span>×</span></button>
+</div>

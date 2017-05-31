@@ -1,0 +1,21 @@
+  <div class="action-buttons text-center">
+      <button class="bos-button" onclick="submitPayPal('{{include.code}}')">
+        <!-- paypal donate code: GPYRJ7WLDHDKJ (lp-einkommensgenerierung) -->
+        {% include svg_icon.html name="donate" %}
+        <span>spende jetzt</span>
+      </button>
+      {% if include.aktiv == true %}
+      <a href="http://www.bos-schweiz.ch/de/helfen/unterstuetzung.htm">
+        <button class="bos-button">
+          {% include svg_icon.html name="aktiv" %}
+          <span>werde aktiv</span>
+        </button>
+      </a>
+      {% endif %}
+
+      {% if include.updates == true %}
+        <a href="{{site.mailchimpURL}}" target="_blank">
+          <button class="bos-button">{% include svg_icon.html name="signup" %} updates erhalten &nbsp; &nbsp;&nbsp;<br></button>
+        </a>
+      {% endif %}
+    </div>

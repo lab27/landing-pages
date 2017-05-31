@@ -1,0 +1,5 @@
+---
+- name: Search
+  icon: search
+- name: Menu
+  icon: menu

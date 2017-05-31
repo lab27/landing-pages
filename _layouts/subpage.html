@@ -1,0 +1,20 @@
+---
+layout: default
+bodyclass: subpage
+---
+<div class="section light">
+  <div class="section-title">
+    <h2>{{page.title}}</h2>
+  </div>
+  <div class="section-content">
+
+    {{content}}
+
+    <a href="{{page.backlink}}">
+  <button class="bos-button large info float-left">« zurück</button>
+</a>
+  </div>
+</div>
+<div class="svg light">
+  {% include leaves.svg id="" %}
+</div>
