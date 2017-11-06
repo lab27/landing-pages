@@ -447,6 +447,17 @@ body.subpage > .section.light {
         @include grid-column(8);
         @include grid-column-offset(2);
         @include grid-column-end;
+
+        p {
+            padding: 0 4rem;
+        }
+
+        img {
+            width: calc(100% + 8rem);
+            margin-left: -4rem;
+            max-width: none;
+            margin-top: 2rem;
+        }
     }
 
 
@@ -460,6 +471,13 @@ body.subpage > .section.light {
 
     p {
       @extend .lead;
+      position: relative;
+
+      a {
+          position: relative;
+          z-index: 999;
+          display: block;
+      }
     }
 
     .graphic {

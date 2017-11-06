@@ -53,4 +53,8 @@ $main-button-color: $earthy7;
             color: white;
         }
     }
+
+    & + a {
+        margin-left: .75rem;
+    }
 }
