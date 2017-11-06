@@ -1,6 +1,6 @@
 ---
 layout: post
-category: auswilderungen
+categories: auswilderungen
 title: 'Vertiefte Informationen'
 date: '2017-05-30 00:20:00'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: auswilderungen
+categories: auswilderungen
 title: 'Auswilderungen'
 date: '2017-05-31 00:40:00'
 ---

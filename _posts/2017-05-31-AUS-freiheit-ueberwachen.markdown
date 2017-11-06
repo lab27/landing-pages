@@ -1,6 +1,6 @@
 ---
 layout: post
-category: auswilderungen
+categories: auswilderungen
 title: 'Freiheit überwachen: Post-Release Monitoring'
 date: '2017-05-31 00:30:00'
 ---

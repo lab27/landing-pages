@@ -1,6 +1,6 @@
 ---
 layout: subpage
-category: auswilderungen-mehr
+categories: auswilderungen-mehr
 permalink: technische-details.html
 backlink: auswilderung.html#technische-details
 title: 'Technische Details und Kosten'
