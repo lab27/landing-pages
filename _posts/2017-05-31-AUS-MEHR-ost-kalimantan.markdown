@@ -1,6 +1,6 @@
 ---
 layout: subpage
-category: auswilderungen-mehr
+category: auswilderung-mehr
 permalink: ost-kalimantan.html
 backlink: auswilderung.html#ost-kalimantan
 title: 'Auswilderungsgebiete'

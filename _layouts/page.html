@@ -1,14 +1,33 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+{% for post in site.categories[page.id] %} {% capture tone %}{% cycle 'light','dark' %}{% endcapture %}
+  <div class="section {{ tone }}{% if forloop.first == true %}js-current-panel{% endif %}{% if forloop.first == true %} titleblock{% endif %}" id="{{post.section}}">
+    <div class="section-title">
+      {% if forloop.first == true %}
+      <h1 class="text-center">{{page.title}}</h1>
+      {% else %}
+  
+      <h2>{{post.title}}</h2>
+      {% endif %}
+    </div>
+  
+    <div class="section-content">
+      {% if forloop.first == true %}
+      <img src="{{ page.main-image }}">
+      <div class="floating-textbox">
+        <h3>
+          <span class="question">{{site.data.[page.id].question}}
+            <span class="answer">{{site.data.[page.id].answer}}</span>
+          </span>
+        </h3>
+      </div>
+      {% endif %} {{post.content}}
+    </div>
+  
   </div>
-
-</article>
+  <div class="leaveswrapper {{tone}} {% if forloop.last == true %}final{% endif %}">
+    {% include leaves.svg %}
+  </div>
+  {% endfor %}

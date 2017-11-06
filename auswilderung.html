@@ -1,38 +1,6 @@
 ---
-layout: default
+layout: page
 title: Auswilderungen
+id: auswilderung
 main-image: "uploads/2017/03/12/-%20Sawa%20dan%20Sawi-1.jpg"
 ---
-
-
-
-  {% for post in site.categories.auswilderungen %}
-    {% capture tone %}{% cycle 'light','dark' %}{% endcapture %}
-    <div class="section {{ tone }} {% if forloop.first == true %}js-current-panel{% endif %}" {% if forloop.first == true %}id="titleblock"{% endif %}>
-        <div class="section-title">
-            {% if forloop.first == true %}
-                <h1 class="text-center">{{page.title}}</h1>
-             {% else %}
-
-            <h2>{{post.title}}</h2>
-            {% endif %}
-        </div>
-
-        <div class="section-content">
-             {% if forloop.first == true %}
-             <img src="{{ page.main-image }}">
-        <div class="floating-textbox">
-            <h3>
-                <span class="question">{{site.data.releases.question}} 
-                <span class="answer">{{site.data.releases.answer}}</span></span>
-            </h3>
-        </div>
-             {% endif %}
-            {{post.content}}
-        </div>
-      
-    </div>
-    <div class="leaveswrapper {{tone}} {% if forloop.last == true %}final{% endif %}">
-         {% include leaves.svg %}
-    </div>
-  {% endfor %}

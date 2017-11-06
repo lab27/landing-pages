@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: auswilderungen
+categories: auswilderung
+section: temp
 title: 'Vertiefte Informationen'
 date: '2017-05-30 00:20:00'
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: auswilderungen
+categories: auswilderung
+section: ost-kalimantan
 title: 'Auswilderungen'
 date: '2017-05-31 00:40:00'
 ---

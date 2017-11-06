@@ -1,6 +1,6 @@
 ---
 layout: subpage
-category: auswilderungen-mehr
+category: auswilderung-mehr
 permalink: salat-island.html
 backlink: auswilderung.html#salat
 title: 'Hintergründe Salat Island'
