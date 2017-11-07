@@ -49,6 +49,10 @@ Main components
   // margin-top: 2em;
   // margin-bottom: 2em;
   // height: 100%;
+
+  p {
+    padding: 0;
+  }
 }
 #cd-timeline::before {
   /* this is the vertical line */
