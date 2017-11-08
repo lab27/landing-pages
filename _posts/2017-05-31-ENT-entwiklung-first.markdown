@@ -9,7 +9,7 @@ Deshalb führt Borneo Orangutan Survival (BOS) in enger Zusammenarbeit mit den d
 
 #### Verortung der Projekte
 
-![](assets/images/indonesia.svg)
+![](assets/images/BOS-stations.svg)
 
 Unsere Projekte in Zentralkalimantan konzentrieren sich auf die Mawas Region, ein 3‘774 km2 grosses und geschütztes Waldgebiet.Am Rande des Schutzgebiets leben rund 29‘000 vorwiegend arme Familien in 53 Dörfern, die teils schwer zugänglich sind -ein fruchtbarer Boden für illegale Aktivitäten wie Brandrodung Wilderei, Holzeinschlag oder das Schürfen von Gold. Lokale „Kredithaie“, die Geld zu überteuerten Konditionen verleihen, kommen hier genauso auf ihre Kosten, wie Ölpalmproduzenten.
 
