@@ -60,7 +60,9 @@ img {
 
 //process dl
 .legend {
-			counter-reset: my-badass-counter;
+            counter-reset: my-badass-counter;
+            max-width: 30rem;
+            margin: 0 auto;
 		}
 		.legend dt {
 			position: relative;
@@ -172,7 +174,15 @@ body {
 
         &.final {
              background: $peach;
+            }
         }
+        
+    // &:last-child {
+    //     background: $peach;
+
+    // }
+    .subpage & {
+        background: $peach;
     }
 }
 

@@ -9,7 +9,7 @@ Unsere Bildungsprojekte können zwei Kategorien zugeteilt werden: 1.) Massnahmen
 
 ![](assets/images/school-blackboard.jpg)
 
-[<button class="bos-button large info float-right space-left">mehr erfahren »</button>](bildungsprojekte.html)
+[<button class="bos-button large info float-right space-left" id="bildungsprojekte">mehr erfahren »</button>](bildungsprojekte.html)
 
 Unsere Aktivitäten im Bildungsbereich richten sich v.a. an benachteiligte Gruppen, wie z.B. Angehörige der Dayak Wehea (eine Ethnie, die um ihre rechtliche Anerkennung und Landrechte kämpft). Ausserdem fördern wir gezielt junge Menschen, die zunehmend mit der Darstellung von materiellem Wohlstand in Kontakt kommen und als Reaktion darauf ihre eigene Kultur als rückständig betrachten. Unsere Aktivitäten im Bereich Umweltbildung richten sich insbesondere an Menschen, die nahe oder in Orang-Utan-Verbreitungsgebieten leben. Sie sollten am besten schon im Kindes- oder Jugendalter für die ökologische Bedeutung der Orang-Utans, deren Wiederansiedelung, den Arten-, Natur- und Umweltschutz sensibilisiert werden.
 

@@ -102,10 +102,10 @@ window.onresize = function() {
 
 spaceOutTheFloater();
 
-if ($('#twitter-share-timeline')) {
+if ($('#twitter-share-timeline').length > 0) {
   document.getElementById('twitter-share-timeline').onclick = twitter
 }
 
-if ($('#facebook-share-timeline')) {
+if ($('#facebook-share-timeline').length > 0) {
   document.getElementById('facebook-share-timeline').onclick = facebook
 }

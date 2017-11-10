@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="{{ layout.bodyclass }} {{ page.id | default: 'normal'}}">
+  <body class="{{ layout.bodyclass | default: 'page'}} {{ page.id | default: 'normal'}}">
 
 
 
