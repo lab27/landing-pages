@@ -1,5 +1,5 @@
 ---
-layout: post
+
 categories: auswilderung
 section: ost-kalimantan
 title: 'Auswilderungen'

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 section: temp
 category: entwicklung
 title: 'Einkommensgenerierung'

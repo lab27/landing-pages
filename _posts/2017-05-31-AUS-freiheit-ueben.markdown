@@ -1,5 +1,5 @@
 ---
-layout: post
+
 categories: auswilderung
 section: salat
 title: 'Freiheit üben: Pre-Release Aktivitäten'

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 section: temp
 category: entwicklung
 title: 'Zuverlässige Partner in Indonesien und der Schweiz'
@@ -34,23 +34,3 @@ Vor Ort und in der Schweiz arbeiten wir eng mit Partnern zusammen, die über jah
 ![](assets/images/school-group.jpg)
 
 Die notwendigen Kapazitäten und personellen Ressourcen sind aufgebaut, etablierte Abläufe in der Projektabwicklung formalisiert und gemeinsame Lernprozesse längst zur Grundlage zukünftiger Vorhaben geworden. Einer Ausweitung unserer Entwicklungszusammenarbeit steht somit nichts im Wege!
-
-{% include chronology.html %}
-
-
-<div class="share-buttons text-center clearfix">
-    <a href="tmp.2aqxSqRTpU.html#" id="twitter-share-timeline">
-      {% include svg_icon.html name="twitter" %}
-    </a>
-    <a href="tmp.2aqxSqRTpU.html#" id="facebook-share-timeline">
-      {% include svg_icon.html name="facebook" %}
-    </a>
-</div>
-
-Unsere Entwicklungszusammenarbeit vor Ort finanzieren wir über Stiftungs- und Spendengelder. Über die Jahre haben wir nicht nur erhebliche Summen für Vorhaben in diesem Bereich eingeworben, sondern auch unseren vertrauenswürdigen Umgang mit den Mitteln bewiesen. Bitte spenden auch Sie oder werden Sie anderweitig aktiv!
-
-<div class="action-buttons text-center">
-    <button class="bos-button" onclick="submitPayPal('XP9F23BY9AEBU')">
-        {% include svg_icon.html name="donate" %} <span>spende jetzt</span>
-    </button>
-</div>

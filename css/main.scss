@@ -169,6 +169,10 @@ body {
         svg {
             fill: $almost-white;
         }
+
+        &.final {
+             background: $peach;
+        }
     }
 }
 
@@ -297,24 +301,26 @@ $red-orange: #ff5035;
             z-index: 10;
             border-bottom: 20px solid $earthy7;
             padding-bottom: 1.6rem;
-            background: rgba($earthy7,.7);
-            background: rgba(white,.6);
+            background: rgba($earthy7,.3);
+
             padding: 1rem;
+
+            .auswilderung & {
+                            background: rgba(white,.6);
+            }
         }
 
 
         span {
-            //background: $earthy7;
-            /* background: $fun5;*/
-            font-family: 'anton';
+            font-family: 'Francois One';
             font-weight: 500;
             font-size: 1.6rem;
-            // padding: 8px 12px;
             line-height: 2.2rem;
             box-decoration-break: clone;
             -webkit-box-decoration-break: clone;
+            letter-spacing: -.025rem;
+            font-weight: 700;
 
-            /* box-shadow: 0 10px 20px rgba(0,0,0,.2);*/
 
             @include breakpoint(small only) {
                 font-size: 1.2rem;
@@ -327,38 +333,17 @@ $red-orange: #ff5035;
                 line-height: 2.1rem;
             }
 
-            // &.question {
-
-            //     color: $earthy4;
-            //     color: $earthy2;
-            // }
-
-            // &.answer {
-            //     color: $earthy7;
-            //     color: white;
-            // }
 
             span.question {
-  font-size: 12px;
-  width: 300px;
-  height: 300px;
-  overflow: hidden;
-  text-align: justify;
-  -webkit-hyphens: manual;
-  -webkit-shape-inside: polygon(0px 0px, 0 300px, 300px 300px);
-}
+            font-size: 12px;
+            width: 300px;
+            height: 300px;
+            overflow: hidden;
+            text-align: justify;
+            -webkit-hyphens: manual;
+            -webkit-shape-inside: polygon(0px 0px, 0 300px, 300px 300px);
+            }
         }
-
-        // @media only screen and (max-device-aspect-ratio: 1/1){
-        //      background: red;
-        //  }
-        // @media only screen and (orientation: portrait) {
-        //  background: purple;
-        // }
-
-        // @media only screen and (orientation: landscape) {
-        //  background: lavender;
-        // }
 
         @media screen and (max-aspect-ratio: 4 / 3) {
             bottom: 25%;
@@ -713,115 +698,6 @@ body.subpage > .section.light {
     }
 }
 
-//Process svg
-svg#process {
-    .cls-1 {
-      fill: #a5e281;
-    }
-
-    .cls-2 {
-      fill: #ace183;
-    }
-
-    .cls-3 {
-      fill: #b3df84;
-    }
-
-    .cls-4 {
-      fill: #bbde86;
-    }
-
-    .cls-5 {
-      fill: #c2dd88;
-    }
-
-    .cls-6 {
-      fill: #c9db89;
-    }
-
-    .cls-7 {
-      fill: #d0da8b;
-    }
-
-    .cls-8 {
-      fill: #d8d98d;
-    }
-
-    .cls-9 {
-      fill: #dfd78e;
-    }
-
-    .cls-10 {
-      fill: #e6d690;
-    }
-
-    .cls-11 {
-      font-size: 16px;
-    }
-
-    .cls-11, .big-number {
-      fill: #76686d;
-      font-family: $system-font-family;
-    }
-
-    .cls-12, .cls-25 {
-      font-weight: 700;
-    }
-
-    .cls-13 {
-      letter-spacing: 0em;
-    }
-
-    .cls-14 {
-      letter-spacing: -0.01em;
-    }
-
-    .cls-15 {
-      letter-spacing: -0.01em;
-    }
-
-    .cls-16 {
-      font-family: SFUIDisplay-Regular, SF UI Display;
-    }
-
-    .cls-17 {
-      letter-spacing: -0.01em;
-    }
-
-    .cls-18 {
-      letter-spacing: -0.02em;
-    }
-
-    .cls-19 {
-      letter-spacing: -0.03em;
-    }
-
-    .cls-20 {
-      letter-spacing: 0em;
-    }
-
-    .cls-21 {
-      letter-spacing: 0em;
-    }
-
-    .cls-22 {
-      letter-spacing: -0.02em;
-    }
-
-    .cls-23 {
-      letter-spacing: -0.05em;
-    }
-
-    .cls-24 {
-      letter-spacing: -0.03em;
-    }
-
-    .big-number {
-      font-size: 48px;
-      font-weight: 700;
-    }
-
-}
 
 footer {
   padding: 12px;
@@ -859,7 +735,13 @@ footer {
     line-height: 1.2;
   }
   a {
-    color:$pale-maroon;
+      color: $pale-maroon;
+      font-weight: 700;
+      text-decoration: underline;
+      
+      &:hover {
+        color:$earthy5;
+    }
   }
 
   ul {
@@ -888,5 +770,18 @@ footer {
   svg {
     width: 24px;
     height: 24px;
+  }
+}
+
+.share-buttons {
+  a {
+    color: $dark-maroon;
+
+  }
+  padding: 24px;
+  svg {
+    width: 36px;
+    height: 36px;
+    margin: 6px;
   }
 }

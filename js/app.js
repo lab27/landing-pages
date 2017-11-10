@@ -101,3 +101,11 @@ window.onresize = function() {
 }
 
 spaceOutTheFloater();
+
+if ($('#twitter-share-timeline')) {
+  document.getElementById('twitter-share-timeline').onclick = twitter
+}
+
+if ($('#facebook-share-timeline')) {
+  document.getElementById('facebook-share-timeline').onclick = facebook
+}

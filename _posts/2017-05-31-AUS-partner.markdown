@@ -1,5 +1,5 @@
 ---
-layout: post
+
 categories: auswilderung
 section: temp
 title: 'Zuverlässige Partner in Indonesien und der Schweiz'

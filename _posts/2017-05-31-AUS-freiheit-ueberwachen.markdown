@@ -1,5 +1,5 @@
 ---
-layout: post
+
 categories: auswilderung
 section: temp
 title: 'Freiheit überwachen: Post-Release Monitoring'
