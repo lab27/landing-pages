@@ -31,5 +31,9 @@ exclude:
 kramdown:
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
 
-gems:
+plugins:
   - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true

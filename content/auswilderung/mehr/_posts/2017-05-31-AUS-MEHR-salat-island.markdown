@@ -1,14 +1,14 @@
 ---
 layout: subpage
 category: auswilderung-mehr
-permalink: salat-island.html
-backlink: auswilderung.html#salat
+permalink: auswilderung/salat-island.html
+backlink: '#salat'
 title: 'Hintergründe Salat Island'
 date: '2017-05-31 00:10:00'
 ---
 Die Rettungsstation in Nyaru Menteng ist die weltgrößte Auffangstation für Orang-Utans. Derzeit bietet sie über 500 Orang-Utans Zuflucht. Schon lange ist die Aufnahmekapazität der Station erschöpft. Die vorhandenen 4 kleinen Pre-Release Inseln konnten maximal 90 Orang-Utans beherbergen. Die Wartelisten für jene, die bereit für einen Umzug auf eine Insel waren, wurden immer länger. Viele Orang-Utans, die die Waldschule bereits abgeschlossen hatten, waren aufgrund ihrer Größe und Kraft nur noch in Sozialisierungskäfigen zu halten. Dort warteten sie auf die Umsiedlung oder Auswilderung. Ihre Chancen, erfolgreich ausgewildert zu werden, schwanden mit jedem Tag, den sie so ausharren mussten, denn mit der Zeit verlernen Orang-Utans die Fähigkeiten, die sie sich in der Waldschule angeeignet haben. Als sich 2015 die Möglichkeit auftat, eine nahegelegene Flussinsel als Orang-Utan Schutzgebiet zu nutzen, entstand die berechtigte Hoffnung, damit den Druck von der Rettungsstation in Nyaru Menteng zu nehmen. Nebst Pre-Release Aktivitäten sollte dort auch eine dauerhafte Zufluchtsstätte für jene Orang-Utans geschaffen werden, die aufgrund von Krankheiten, Missbildungen oder schweren Traumata nicht mehr ausgewildert werden können.
 
-![](uploads/2017/03/06/3.jpg)
+![]({{ site.baseurl }}/uploads/2017/03/06/3.jpg)
 
 
 ## Salat Island: Topographie und Vegetation

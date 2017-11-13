@@ -14,7 +14,7 @@ Wenn Sie auf dem Laufenden gehalten werden wollen zu den anstehenden Auswilderun
 
 {% for link in site.data.downloads %}
 <li>
-<a href="uploads/{{link.link}}" target="_blank">
+<a href="{{site.baseurl}}/uploads/{{link.link}}" target="_blank">
 {{link.name}}
 </a>
 </li>

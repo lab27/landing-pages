@@ -1,14 +1,14 @@
 ---
 layout: subpage
 categories: auswilderung-mehr
-permalink: technische-details.html
-backlink: auswilderung.html#technische-details
+permalink: auswilderung/technische-details.html
+backlink: '#technische'
 title: 'Technische Details und Kosten'
 date: '2017-05-31 00:10:00'
 ---
 Kurz vor der Auswilderung wird jedem Orang-Utan ein Implantat eingesetzt. Der Sender ist rund, etwas grösser als ein 5 CHF Stück, ca. 1 cm dick, und wird im Nacken implantiert. Die Kosten dafür betragen ca. 500 CHF pro Tier. Zusätzlich werden Empfänger benötigt. Derzeit setzen wir Telonics Biomedical Receiver TR 4 142/146 MHz für ca. 760 CHF das Stück oder Biotrack Sika Receiver - 8 MHz für ca. 1.720 CHF das Stück ein. Die Kosten für die Antennen (RA 2AK o.ä.) belaufen sich auf ca. 250 CHF.
 
-![](uploads/2017/03/12/IMG-20170226-WA0002%20-%20Kopie-1.jpg)
+![]({{ site.baseurl }}/uploads/2017/03/12/IMG-20170226-WA0002%20-%20Kopie-1.jpg)
 
 Dass wir bei dieser Technologie mit einem Implantat arbeiten können, reduziert die Verletzungsgefahr massiv. Der Eingriff erfordert nur einen kleinen Schnitt, die Wunde verheilt in der Regel schnell und ein Armband oder eine Fussfessel, an der das Tier leicht hängen bleiben kann, werden nicht benötigt. Je trockener die Umgebung des Implantats, umso besser das Signal. In der Regel haben die Implantate eine Batteriedauer von 2-3 Jahren. Danach verlieren wir das Signal.
 

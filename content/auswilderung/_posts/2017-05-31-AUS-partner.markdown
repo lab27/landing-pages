@@ -4,7 +4,7 @@ date: '2017-05-31 00:10:00'
 ---
 Bei der Vorbereitung, der Durchführung und der Überwachung unsere Aktivitäten im Bereich Auswilderungen sind wir auf eine gute und zuverlässige Zusammenarbeit mit nationalen und internationalen Partnern angewiesen. Hierzu gehören staatliche und private Institutionen genauso wie wissenschaftliche Einrichtungen, z.B. die zuständigen Naturschutzbehörden Zentral- und Ostkalimantan’s, die Tuanana Orangutan Research Station (eine Kooperation der BOSF mit der Universität Zürich, der Rutgers University und der National University of Jakarta) oder wissenschaftliche Berater wie Simon Husson von der Borneo Nature Foundation/OuTrop.
 
-![](uploads/2017/03/05/Tuanana%20Research%20Station.JPG)
+![]({{ site.baseurl }}/uploads/2017/03/05/Tuanana%20Research%20Station.JPG)
 
 Die wissenschaftlichen Erkenntnisse aus dem Post-Release Monitoring und die praktischen Erfahrungen, die wir bei jeder Auswilderung sammeln, fließen in zukünftigen Vorhaben ein. Sie helfen uns letztlich, die Orang-Utans besser auf die Freiheit vorzubereiten und ihre Überlebenschancen in freier Wildbahn richtig abzuschätzen.  
 

@@ -16,11 +16,11 @@ bodyclass: page
   
     <div class="section-content">
       {% if forloop.first == true %}
-      <img src="{{ page.main-image }}">
+      <img src="{{site.baseurl}}/{{ page.main-image }}">
       <div class="floating-textbox">
         <h3>
-          <span class="question">{{site.data.[page.id].question}}
-            <span class="answer">{{site.data.[page.id].answer}}</span>
+          <span class="question">{{site.data[page.id].question}}
+            <span class="answer">{{site.data[page.id].answer}}</span>
           </span>
         </h3>
       </div>
