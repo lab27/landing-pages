@@ -1,7 +1,4 @@
 ---
-
-categories: auswilderung
-section: temp
 title: 'Freiheit überwachen: Post-Release Monitoring'
 date: '2017-05-31 00:30:00'
 ---

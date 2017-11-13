@@ -1,7 +1,4 @@
 ---
-
-categories: auswilderung
-section: temp
 title: 'Zuverlässige Partner in Indonesien und der Schweiz'
 date: '2017-05-31 00:10:00'
 ---

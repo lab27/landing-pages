@@ -23,8 +23,6 @@ Als Auswilderungsgebiet eignet sich KJ7 ausserdem deshalb, weil keine größere 
 
 ## Auswilderungen in Zentral-Kalimantan: Bukit Batikap & BBBR NP
 
-
-
 Murung Raya ist die am weitesten abgelegene der 13 „Regentschaften“ Zentral-Kalimantans. Ganz im nordöstlichen Teil der Provinz gelegen stehen dort drei Auswilderungsgebiete zur Verfügung mit einer gesamten Aufnahmekapazität von ca. 400 Orang-Utans: Murung Ulu, Sungai Busang und Bukit Batikap. Für das ca. 200 km² grosse Waldgebiet Bukit Batikap konnte die BOSF Landnutzungsrechte erwerben. Im Februar/März 2012 wurden dort die ersten Orang-Utans ausgewildert.
 
 Als Verwaltungszentrum des Bezirkes dient die Grenzstadt Puruk Cahu, die mit dem Boot, mit kleinen Flugzeugen oder mit dem Auto erreicht werden kann. Die Orang-Utans verbringen hier ihre letzte Nacht vor der Auswilderung. Hinter Puruk Cahu sind die Transportwege jedoch kaum ausgebaut. Von dort aus sind die Auswilderungsgebiete deshalb nur per Helikopter erreichbar.
@@ -39,12 +37,9 @@ Eine grössere wild lebende Orang-Utan-Population existiert nicht, was vermutlic
 
 Die Aufnahmekapazität Bukit Batikap’s ist mittlerweile allerdings erschöpft. Aus diesem Grund nutzt die BOSF seit Kurzem Gebiete des Bukit Baka Bukit Raya Nationalparks (BBBR NP) für Auswilderungen in Zentral-Kalimantan. Die Bedingungen vor Ort sind optimal. Die Artenvielfalt dieses fast unberührten Waldgebietes verschlägt selbst erfahrenen Primatologen und Biologen den Atem. Die beiden Auswilderungsgebiete im Nationalpark (Sei Bimban und Sei Mahalut) befinden sich 900 Meter unter dem Meeresspiegel und beherbergen keine grössere wilde Orang-Utan-Population. Als Schutzgebiet ist der BBBR Nationalpark vor einer Ausbeutung durch die Palmölindustrie sicher. Mit einer Gesamtfläche von 27.000 Hektar bietet dieses Auswilderungsgebiet Platz für über 300 Orang-Utans. Bis heute haben wir dort fast 50 unserer ehemaligen Schützlinge ausgewildert.
 
-![](uploads/2017/03/05/Foto%205.%20Menuju%20titik%20pelepasliaran.jpg)</div>
-
+![](uploads/2017/03/05/Foto%205.%20Menuju%20titik%20pelepasliaran.jpg)
 
 ## Eine ganz gewöhnliche Auswilderung
-
-
 
 Mitte Oktober 2016 brachte das Auswilderungsteam erneut 5 Orang-Utans in die Wildnis. Einer von ihnen war Kent. Das Orang-Utan-Männchen wurde bereits im März 2014 ausgewildert. Seine Freiheit währte aber nur 2 Monate. In einem Kampf mit einem anderen Orang-Utan Männchen wurde er so massiv verletzt, dass wir ihn wieder einfangen und in die Station bringen mussten. Nun endlich nach 2 Jahren Rehabilitation konnte Kent zurück in die Freiheit von Kehje Sewen - gemeinsam mit Rafli, Jamur, L-Lo und Saprol.
 

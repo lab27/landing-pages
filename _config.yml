@@ -27,3 +27,9 @@ exclude:
   - package.json
   - node_modules
   - gulpfile.js
+
+kramdown:
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+
+gems:
+  - jekyll-relative-links

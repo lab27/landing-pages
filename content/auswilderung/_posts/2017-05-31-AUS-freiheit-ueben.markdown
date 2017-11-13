@@ -1,7 +1,4 @@
 ---
-
-categories: auswilderung
-section: salat
 title: 'Freiheit üben: Pre-Release Aktivitäten'
 date: '2017-05-31 00:50:00'
 ---

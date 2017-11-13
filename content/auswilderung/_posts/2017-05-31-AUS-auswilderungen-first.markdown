@@ -1,7 +1,4 @@
 ---
-
-section: temp
-category: auswilderungen
 title: 'Auswilderungen'
 date: '2017-05-31 12:00:00'
 ---
