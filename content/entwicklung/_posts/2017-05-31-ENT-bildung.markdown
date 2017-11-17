@@ -7,7 +7,7 @@ date: '2017-11-06 09:01:00'
 ---
 Unsere Bildungsprojekte können zwei Kategorien zugeteilt werden: 1.) Massnahmen in den Bereichen Umwelt-, Natur- und Artenschutz (z.B. Workshops zur Sensibilisierung der lokalen Bevölkerung für die ökologische Bedeutung der Orang-Utans oder für eine nachhaltige, ökonomische Nutzung des Regenwaldes) und 2.) Weiterbildungsprogramme zur Verbesserung der Einkommenssituation.
 
-![](assets/images/school-blackboard.jpg)
+![]({{ site.baseurl }}/assets/images/school-blackboard.jpg)
 
 [<button class="bos-button large info float-right space-left" id="bildungsprojekte">mehr erfahren »</button>](bildungsprojekte.html)
 

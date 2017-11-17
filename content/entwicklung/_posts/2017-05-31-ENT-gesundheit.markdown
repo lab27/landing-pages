@@ -9,7 +9,7 @@ Das Wohlbefinden und die körperliche Unversehrtheit der Orang-Utans und der lok
 
 Das gilt insbesondere für die verheerenden Waldbrände, die jedes Jahr aufs Neue nicht nur das Überleben der roten Waldmenschen gefährden, sondern auch die menschliche Gesundheit der ganzen Region bedrohen. Laut einer Studie der US-Universitäten Harvard und Columbia starben rund 100‘000 Menschen an den Folgen der Waldbrände von 2015\. Hundertausende leiden jährlich in den vom Smog betroffenen Ländern Indonesien, Malaysia und Singapur an Atemwegserkrankungen. Auch Fehlgeburten werden mit den alljährlichen Torf- und Waldbränden in Verbindung gebracht (Bild: Björn Vaughn, BPI).
 
-![](assets/images/bike.jpg)
+![]({{ site.baseurl }}/assets/images/bike.jpg)
 
 Zudem betreffen viele Krankheiten, die in der Region verbreitet sind (z.B. Malaria), Menschen wie Tiere. Hepatitis, Tuberkulose, Herpesviren oder verschiedene Parasiten (v.a. im Magen und Darm) werden aufgrund der engen genetischen Verwandtschaft zwischen Menschen und Orang-Utans übertragen.
 

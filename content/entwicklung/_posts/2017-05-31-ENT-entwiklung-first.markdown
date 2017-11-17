@@ -9,7 +9,7 @@ Deshalb führt Borneo Orangutan Survival (BOS) in enger Zusammenarbeit mit den d
 
 #### Verortung der Projekte
 
-![](assets/images/BOS-stations.svg)
+![]({{ site.baseurl }}/assets/images/BOS-stations.svg)
 
 Unsere Projekte in Zentralkalimantan konzentrieren sich auf die Mawas Region, ein 3‘774 km2 grosses und geschütztes Waldgebiet.Am Rande des Schutzgebiets leben rund 29‘000 vorwiegend arme Familien in 53 Dörfern, die teils schwer zugänglich sind -ein fruchtbarer Boden für illegale Aktivitäten wie Brandrodung Wilderei, Holzeinschlag oder das Schürfen von Gold. Lokale „Kredithaie“, die Geld zu überteuerten Konditionen verleihen, kommen hier genauso auf ihre Kosten, wie Ölpalmproduzenten.
 
@@ -25,7 +25,7 @@ Drei Dorfgemeinschaften zwischen der Bezirksstadt Muara Wahau und dem Auswilderu
 traditioneller und der Schaffung neuer, nachhaltiger Einkommensquellen, einer besseren medizinischen Versorgung, der Erweiterung der Schulbildung und der Sensibilisierung für den Natur- und Orang-Utan-Schutz. Speziell Frauen soll mithilfe von Kleinkrediten
 zu mehr Einfluss in den Gemeinschaften, Eigenständigkeit und Selbstvertrauen verholfen werden. 
 
-![](assets/images/bathing.jpg)
+![]({{ site.baseurl }}/assets/images/bathing.jpg)
 
 Eine Transitstation innerhalb der Grenze von Kehje Sewen unterstützen wir bei der Verbesserung ihrer Frischwasserversorgung, der Sanierung und Renovierung sanitärer Einrichtungen, der Einführung eines Abfallentsorgungs- bzw. Mülltrennungssystems und
 dem Aufbau eines gemeinschaftlichen Gemüsegartens mit Baumschule. 
