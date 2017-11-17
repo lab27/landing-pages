@@ -14,7 +14,7 @@ tmp=$(mktemp --suffix=.html)
 # /releases/salat-island.html       -> /f/auswilderungen/salat-island.htm
 # /releases/technische-details.html -> /f/auswilderungen/technische-details.htm
 
-base='http://born2bewild.org/releases'
+base='http://born2bewild.org/landing-pages'
 target='/f/auswilderungen'
 
 # retrieve html from primary hosting into temp file
