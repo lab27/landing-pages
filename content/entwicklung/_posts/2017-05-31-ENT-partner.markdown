@@ -9,7 +9,7 @@ Unsere Projekte planen und implementieren wir gemeinsam mit der ansässigen Bev�
 
 #### Projektzyklus
 
-![](assets/images/process_1.svg)
+![]({{ site.baseurl }}/assets/images/process_1.svg)
 
 #### Legende
 <dl class="legend">
@@ -31,6 +31,6 @@ Unsere Projekte planen und implementieren wir gemeinsam mit der ansässigen Bev�
 
 Vor Ort und in der Schweiz arbeiten wir eng mit Partnern zusammen, die über jahrelange Erfahrung und Expertise in der Entwicklungszusammenarbeit in Indonesien verfügen. BOS Mitarbeiter werden vor Ort geschult und haben – genau wie wir von BOS Schweiz – über die Jahre wichtige Kompetenzen in den Bereichen Projektplanung, Umsetzung und Evaluation erworben. In der BOS Schweiz Geschäftsstelle in Zürich ist Dr. Elisabeth Labes (Leiterin für Internationale Projekte & Partner) Ihre Ansprechperson für den Bereich Nachhaltige Entwicklungszusammenarbeit.
 
-![](assets/images/school-group.jpg)
+![]({{ site.baseurl }}/assets/images/school-group.jpg)
 
 Die notwendigen Kapazitäten und personellen Ressourcen sind aufgebaut, etablierte Abläufe in der Projektabwicklung formalisiert und gemeinsame Lernprozesse längst zur Grundlage zukünftiger Vorhaben geworden. Einer Ausweitung unserer Entwicklungszusammenarbeit steht somit nichts im Wege!

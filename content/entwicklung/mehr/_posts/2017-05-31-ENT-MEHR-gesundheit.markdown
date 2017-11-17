@@ -1,8 +1,8 @@
 ---
 layout: subpage
 categories: entwicklung-mehr
-permalink: gesundheit.html
-backlink: entwicklung.html#gesundheit
+permalink: entwicklung/gesundheit.html
+backlink: '#gesundheit'
 title: 'Gesundheitsprojekte in Bea Nehas, Diak Lay und Dea Beq'
 date: '2017-05-31 00:10:00'
 ---
@@ -10,7 +10,7 @@ In Ost-Kalimantan unterstützen wir u.a. drei Dorfgemeinschaften: Bea Nehas, Dia
 
 BOS Schweiz ist deshalb bestrebt, eine zentral gelegene, vergleichsweise hochwertig ausgestattete Gesundheitsstation aufzubauen, die eine anspruchsvollere Versorgung und Prävention leisten kann. Ergänzend würden wir in jedem Dorf ein kleineres Gesundheitszentrum einrichten. Dadurch soll vor allem die medizinische Grundversorgung von Schwangeren, Müttern, Babys und Kleinkindern verbessert werden. Alle Einrichtungen sollen über ausreichend geschultes Personal verfügen, sodass Patientendaten in Zukunft systematisch erfasst und ausgewertet werden können.
 
-![Baby-wage](assets/images/medical.jpg)
+![Baby-wage]({{ site.baseurl }}/assets/images/medical.jpg)
 
 Ein besonderes Gesundheitsrisiko stellen in allen drei Dörfern der herumliegende Müll und Wasserpfützen dar. Letztere sind ideale Brutstätten für Moskitos, was Denguefieber zu einem wesentlichen Gesundheitsproblem macht. Massnahmen zur Trennung des Mülls (der Aufbau einer „Abfall-Bank“) sollen hier Abhilfe verschaffen. Gleichzeitig wird die Bevölkerung so für den Umweltschutz sensibilisiert und kann ein zusätzliches Einkommen generieren: Anstatt in der Umwelt entsorgt wird der produzierte Müll gesammelt und sortiert. BOSF/RHOI unterstützt die Gemeinschaften dabei, die recycelbaren Grundstoffe zum bestmöglichen Preis an Müllhändler zu verkaufen.
 
@@ -20,7 +20,7 @@ Ebenfalls ein Gesundheitsrisiko stellen freilaufende Tiere (wie Rinder, Schweine
 
 Ebenfalls in Ost-Kalimantan und im Gesundheitsbereich unterstützen wir die Bewohner einer kleinen Transitstation, die innerhalb von KJ7 liegt und damit in die Zuständigkeit von BOSF/RHOI fällt. Pelangsiran dient Wanderarbeitern aus anderen Regionen des Landes als Versorgungsstation. Sie transportieren Waren von Muara Wahau nach Pelangsiran und bleiben i.d.R. nur für Tage bis Wochen. Die Zahl der permanenten und temporären Einwohner liegt bei nur 23 (12 Träger, 5 Fahrer, 5 Ehefrauen, 1 Kind). RHOI verfügt über eine Unterkunft in Pelangsiran für die eigenen Mitarbeiter, wovon die kleinen Läden profitieren. Ausserdem ist RHOI ein wichtiger Arbeitgeber für die Station, da Träger und Fahrer häufig für Aktivitäten in KJ7 benötigt werden. Die gute Beziehung zu den Leuten in Pelangsiran ist die Grundlage für die Zusammenarbeit und das Miteinander.
 
-![Medical Posters](assets/images/posters.jpg)
+![Medical Posters]({{ site.baseurl }}/assets/images/posters.jpg)
 
 Erneut sind der Umweltschutz und die Gesundheit der lokalen Bevölkerung eng miteinander verknüpft. Abfall und Fäkalien vergiften die Umgebung und das Flusswasser. Als einzige Frischwasserquelle dient ein kleiner, nahe gelegener Wasserfall, die einzige Gemeinschaftsdusche und die zwei öffentlichen Toiletten sind in einem schlechten Zustand. Es fehlen eine Abwasserableitung, eine Überdachung, eine Tür, und stabile Wände. Ein Teil des Abwassers gelangt direkt in den nahe gelegenen Fluss, Müll wird auf den Boden am Rand der Station entsorgt, und frisches Gemüse für eine gesunde Ernährung ist Mangelware.
 
