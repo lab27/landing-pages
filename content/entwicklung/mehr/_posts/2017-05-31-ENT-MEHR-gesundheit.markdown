@@ -1,6 +1,5 @@
 ---
 layout: subpage
-categories: entwicklung-mehr
 permalink: entwicklung/gesundheit.html
 backlink: '#gesundheit'
 title: 'Gesundheitsprojekte in Bea Nehas, Diak Lay und Dea Beq'

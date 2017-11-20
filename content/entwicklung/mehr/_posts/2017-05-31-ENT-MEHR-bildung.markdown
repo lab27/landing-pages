@@ -1,6 +1,5 @@
 ---
 layout: subpage
-categories: entwicklung-mehr
 permalink: entwicklung/bildungsprojekte.html
 backlink: '#bildungsprojekte'
 title: 'Bildungsprojekte'

@@ -1,6 +1,5 @@
 ---
 layout: subpage
-categories: entwicklung-mehr
 permalink: entwicklung/mikrokredit.html
 backlink: '#mikrokredit'
 title: 'Mikrokreditprojekt, Mawas, Zentral-Kalimantan'

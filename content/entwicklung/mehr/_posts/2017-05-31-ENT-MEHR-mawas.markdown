@@ -1,6 +1,5 @@
 ---
 layout: subpage
-categories: entwicklung-mehr
 permalink: entwicklung/mawas.html
 backlink: '#mawas'
 title: 'Das Mawas Schutzgebiet'

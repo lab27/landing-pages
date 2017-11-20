@@ -2,33 +2,34 @@
 layout: default
 bodyclass: page
 ---
-
 {% for post in site.categories[page.id] %} {% capture tone %}{% cycle 'light','dark' %}{% endcapture %}
-  <div class="section {{ tone }}{% if forloop.first == true %}js-current-panel{% endif %}{% if forloop.first == true %} titleblock{% endif %}">
-    <div class="section-title">
-      {% if forloop.first == true %}
-      <h1 class="text-center">{{page.title}}</h1>
-      {% else %}
-  
-      <h2>{{post.title}}</h2>
-      {% endif %}
-    </div>
-  
-    <div class="section-content">
-      {% if forloop.first == true %}
-      <img src="{{site.baseurl}}/{{ page.main-image }}">
-      <div class="floating-textbox">
-        <h3>
-          <span class="question">{{site.data[page.id].question}}
-            <span class="answer">{{site.data[page.id].answer}}</span>
-          </span>
-        </h3>
+  {% unless post.categories[2] == "mehr" %}
+    <div class="section {{ tone }}{% if forloop.first == true %}js-current-panel{% endif %}{% if forloop.first == true %} titleblock{% endif %}">
+      <div class="section-title">
+          {% if forloop.first == true %}
+          <h1 class="text-center">{{page.title}}</h1>
+          {% else %}
+      
+          <h2>{{post.title}}</h2>
+          {% endif %}
+        </div>
+      
+        <div class="section-content">
+          {% if forloop.first == true %}
+          <img src="{{site.baseurl}}/{{ page.main-image }}">
+          <div class="floating-textbox">
+            <h3>
+              <span class="question">{{site.data[page.id].question}}
+                <span class="answer">{{site.data[page.id].answer}}</span>
+              </span>
+            </h3>
+          </div>
+          {% endif %} {{post.content}}
+        </div>
+      
       </div>
-      {% endif %} {{post.content}}
-    </div>
-  
-  </div>
-  <div class="leaveswrapper {{tone}} {% if forloop.last == true %}final{% endif %}">
-    {% include leaves.svg %}
-  </div>
+      <div class="leaveswrapper {{tone}} {% if forloop.last == true %}final{% endif %}">
+        {% include leaves.svg %}
+      </div>
+    {% endunless %}
   {% endfor %}

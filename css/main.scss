@@ -446,15 +446,15 @@ body.subpage > .section.light {
         @include grid-column-offset(2);
         @include grid-column-end;
 
-        p {
-            padding: 0 4rem;
-        }
+        // p {
+        //     padding: 0 4rem;
+        // }
 
         img {
-            width: calc(100% + 8rem);
-            margin-left: -4rem;
-            max-width: none;
-            margin-top: 2rem;
+            // width: calc(100% + 8rem);
+            // margin-left: -4rem;
+            // max-width: none;
+            // margin-top: 2rem;
         }
     }
 
