@@ -209,11 +209,11 @@
         <polygon class="cls-5" points="154.97 238.78 148.67 233.88 146.54 236.58 148.77 241.39 154.97 238.78"/>
         <polygon class="cls-5" points="146.64 241.79 143.89 236.38 137.5 245.61 146.64 241.79"/>
       </g>
-      <text class="cls-8" transform="translate(126.96 369.25)">WEST KALIMANTAN</text>
-      <text class="cls-11" transform="translate(239.28 80.59)">BORNEO</text>
-      <text class="cls-8" transform="translate(206.4 448.85)">CENTRAL KALIMANTAN</text>
-      <text class="cls-8" transform="translate(363.52 332.24)">EAST KALIMANTAN</text>
-      <text class="cls-13" transform="translate(337.42 554.5)">SOUTH KALIMANTAN</text>
+      <text class="cls-8" transform="translate(126.96 369.25)">WESTKALIMANTAN</text>
+      <text class="cls-11" transform="translate(200 80.59)">BORNEO</text>
+      <text class="cls-8" transform="translate(206.4 448.85)">ZENTRALKALIMANTAN</text>
+      <text class="cls-8" transform="translate(363.52 332.24)">OSTKALIMANTAN</text>
+      <text class="cls-13" transform="translate(337.42 554.5)">SÜDKALIMANTAN</text>
       <g>
         <path class="cls-14" d="M94.19,551.2c21.49-12.53-4.54-65.3,2-75.75,6.84-10.93,16.13,3.64,24.59-13.28,27-54,123.59-18,123.59-82.4,0-37.7,77.38-41.11,83.72-29.9,4.61,8.16-3,38.83,1.32,43.19C336.69,400.35,346,378.77,346,411c0,29.08,25.17,27.34,22.59,49.84-.39,3.34-11.27,6.59-14.62,12-2.81,4.49-9.39,34.55-10.63,34.55-40.34,0-13.8,20.23-33.22,27.24-21.85,7.88-21.36,18.9-21.36,44.59"/>
         <path class="cls-14" d="M419.11,515.32c-16.74,0-28.19,1.46-34.56-11.29-4.47-8.95,1.33-21,1.33-30.57,0-4.8-2.27-9.66-6-10.63-3.18-.83-4.31-4.16-7.31-5.32-1.52-.58-4.42,1.33-6,1.33"/>
@@ -227,20 +227,20 @@
   </g>
   <text class="cls-16" transform="translate(40 622.52)">BOS Entwicklungszusammenarbeit</text>
   <text class="cls-16" transform="translate(40 641.5)">BOS Rettungstation</text>
-  <text class="cls-19" transform="translate(40 660.48)">Waldgebiet</text>
+  <text class="cls-19" transform="translate(40 660.48)">BOS Auswilderungsgebiete</text>
   <polygon class="cls-15" points="32.29 622.52 20.63 622.52 20.63 610.86 26.46 604.77 32.29 610.86 32.29 622.52"/>
   <circle class="cls-21" cx="443.32" cy="445.64" r="5"/>
   <circle class="cls-21" cx="229.89" cy="532.86" r="5"/>
-  <text class="cls-22" transform="translate(451.56 449.52)">Bali<tspan class="cls-23" x="17.41" y="0">k</tspan><tspan x="22.71" y="0">papan</tspan></text>
+  <text class="cls-22" transform="translate(451.56 449.52)">Balikpapan</text>
   <circle class="cls-21" cx="431.62" cy="299.82" r="5"/>
-  <text class="cls-24" transform="translate(456 430.55)"><tspan class="cls-25">S</tspan><tspan x="6.02" y="0">amboja Le</tspan><tspan class="cls-26" x="53.27" y="0">s</tspan><tspan x="58.38" y="0">tari</tspan></text>
-  <text class="cls-27" transform="translate(442.17 303.09)">Mua<tspan class="cls-26" x="19.52" y="0">r</tspan><tspan class="cls-28" x="23.47" y="0">a </tspan><tspan class="cls-29" x="31.21" y="0">W</tspan><tspan x="39.52" y="0">ahau</tspan></text>
-  <text class="cls-30" transform="translate(408.01 267.09)"><tspan class="cls-31">K</tspan><tspan x="6.1" y="0">e</tspan><tspan class="cls-32" x="11.62" y="0">h</tspan><tspan x="17.65" y="0">je Se</tspan><tspan class="cls-31" x="39.8" y="0">w</tspan><tspan x="47.29" y="0">en</tspan></text>
-  <text class="cls-24" transform="translate(160.31 517.92)">N<tspan class="cls-33" x="6.94" y="0">y</tspan><tspan x="12.25" y="0">aru Me</tspan><tspan class="cls-26" x="43.5" y="0">n</tspan><tspan x="49.46" y="0">teng</tspan></text>
-  <text class="cls-27" transform="translate(162.66 535.86)"><tspan class="cls-31">P</tspan><tspan x="5.89" y="0">alan</tspan><tspan class="cls-34" x="25.58" y="0">k</tspan><tspan x="30.8" y="0">a</tspan><tspan class="cls-26" x="36.3" y="0">r</tspan><tspan x="40.25" y="0">a</tspan><tspan class="cls-33" x="45.75" y="0">y</tspan><tspan x="51.05" y="0">a</tspan></text>
-  <text class="cls-30" transform="translate(211.09 505.33)">BOS M<tspan class="cls-35" x="29.31" y="0">a</tspan><tspan class="cls-26" x="34.71" y="0">w</tspan><tspan x="42.24" y="0">as</tspan></text>
-  <text class="cls-30" transform="translate(256.1 542.67)"><tspan class="cls-25">S</tspan><tspan x="6.02" y="0">al</tspan><tspan class="cls-26" x="14.25" y="0">a</tspan><tspan class="cls-28" x="19.72" y="0">t Island</tspan></text>
-  <text class="cls-30" transform="translate(258.95 412.2)"><tspan class="cls-36">B</tspan><tspan x="6.24" y="0">u</tspan><tspan class="cls-37" x="12.19" y="0">k</tspan><tspan class="cls-26" x="17.49" y="0">i</tspan><tspan x="20.37" y="0">t B</tspan><tspan class="cls-26" x="32.74" y="0">a</tspan><tspan x="38.21" y="0">ti</tspan><tspan class="cls-34" x="44.95" y="0">k</tspan><tspan x="50.17" y="0">ap</tspan></text>
+  <text class="cls-24" transform="translate(456 430.55)">Samboja Lestari</text>
+  <text class="cls-27" transform="translate(442.17 303.09)">Muara Wahau</text>
+  <text class="cls-30" transform="translate(408.01 267.09)">Kehje Sewen</text>
+  <text class="cls-24" transform="translate(160.31 517.92)">Nyaru Menteng</text>
+  <text class="cls-27" transform="translate(155 535.86)"><tspan class="cls-31">Palangka Raya</tspan></text>
+  <text class="cls-30" transform="translate(211.09 505.33)">BOS Mawas</text>
+  <text class="cls-30" transform="translate(256.1 542.67)">Salat Island</text>
+  <text class="cls-30" transform="translate(258.95 412.2)">Bukit Batikap</text>
   <text class="cls-30" transform="translate(124.44 414.09)"><tspan class="cls-36">B</tspan><tspan x="6.24" y="0">u</tspan><tspan class="cls-37" x="12.19" y="0">k</tspan><tspan class="cls-26" x="17.49" y="0">i</tspan><tspan x="20.37" y="0">t Ba</tspan><tspan class="cls-34" x="38.23" y="0">k</tspan><tspan x="43.45" y="0">a </tspan><tspan class="cls-36" x="-12.95" y="12">B</tspan><tspan x="-6.71" y="12">u</tspan><tspan class="cls-37" x="-0.76" y="12">k</tspan><tspan class="cls-26" x="4.54" y="12">i</tspan><tspan x="7.42" y="12">t Ra</tspan><tspan class="cls-33" x="25.26" y="12">y</tspan><tspan x="30.57" y="12">a NP</tspan></text>
   <use width="10.09" height="10.09" transform="translate(440.21 421.96)" xlink:href="#first-aid"/>
   <g>
