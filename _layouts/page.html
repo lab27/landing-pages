@@ -2,8 +2,9 @@
 layout: default
 bodyclass: page
 ---
-{% for post in site.categories[page.id] %} {% capture tone %}{% cycle 'light','dark' %}{% endcapture %}
+{% for post in site.categories[page.id] %} 
   {% unless post.categories[2] == "mehr" %}
+    {% capture tone %}{% cycle 'light','dark' %}{% endcapture %}
     <div class="section {{ tone }}{% if forloop.first == true %}js-current-panel{% endif %}{% if forloop.first == true %} titleblock{% endif %}">
       <div class="section-title">
           {% if forloop.first == true %}
