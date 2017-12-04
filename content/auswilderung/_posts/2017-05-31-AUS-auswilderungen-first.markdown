@@ -8,6 +8,6 @@ Für die eigentliche Auswilderung, das _Release_, muss in der Zwischenzeit ein g
 
 ### Orang-Utan Reise: Von der Rettung bis zur Auswilderung
 
-![]({{ site.baseurl }}/assets/images/auswilderung.svg)
+![]({{ site.baseurl }}/assets/images/sl-fire.svg)
 
 Im Anschluss an die tatsächliche Auswilderung findet dann das so genannte _Post-Release Monitoring_ statt. Implantate erlauben uns, die Orang-Utans in den ersten Wochen nach ihrer Auswilderung per Radio-Antenne zu orten und intensiv zu überwachen. Bis zu drei Jahre lang kann das BOSF Feldteam in enger Zusammenarbeit mit Wissenschaftlern und Orang-Utan Experten auf diesem Weg das Wohlergehen und das Verhalten der ausgewilderten Tiere kontrollieren und studieren.
