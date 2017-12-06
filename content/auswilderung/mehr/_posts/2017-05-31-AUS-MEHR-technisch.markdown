@@ -1,7 +1,7 @@
 ---
 layout: subpage
 permalink: auswilderung/technische-details.html
-backlink: '#technische'
+backlink: '#technische-details'
 title: 'Technische Details und Kosten'
 date: '2017-05-31 00:10:00'
 ---

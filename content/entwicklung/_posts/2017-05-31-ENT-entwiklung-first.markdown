@@ -15,7 +15,7 @@ Unsere Projekte in Zentralkalimantan konzentrieren sich auf die Mawas Region, ei
 
 Land wird ihnen oft billig angeboten und günstige Arbeitskräfte stehen ausreichend zur Verfügung.
 
-[<button class="bos-button large info float-right space-left" id="mawas">mehr erfahren »</button>](mawas.html)
+{% include more-button.html link="mawas" %}
 
 Um illegale Aktivitäten zu bekämpfen und der ansässigen Bevölkerung einen Ausweg aus der Armut jenseits der Ölpalmplantagen zu bieten, vergeben wir Mikrokredite. Damit fördern wir Initiativen der lokalen Bevölkerung zur Verbesserung ihrer Einkommenssituation. Unser Ziel ist die Schaffung von alternativen, nachhaltigen und umweltverträglichen Einnahmequellen. Ausserdem führt BOS in der Mawas Region Gesundheits- und Bildungsprojekte durch.
 

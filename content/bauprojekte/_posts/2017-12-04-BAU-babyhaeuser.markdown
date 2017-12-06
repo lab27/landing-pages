@@ -7,5 +7,6 @@ In Samboja Lestari und Nyaru Menteng sind innerhalb kürzester Zeit zwei neue Ba
 
 
 
-[<button class="bos-button large info float-right space-left" id="babyhaeuser">mehr erfahren »</button>](babyhaeuser.html)
+{% include more-button.html link="babyhaeuser" %}
+
 [<button class="bos-button large info float-right space-left" id="babyhaeuser-bilder">Bilder zum Bau der Babyhäuser</button>](http://www.bos-schweiz.ch/de/projekte/bauprojekte/babyhaeuser/bau-babyhaeuser.htm)

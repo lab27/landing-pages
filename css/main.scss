@@ -464,7 +464,7 @@ body.subpage > .section.light {
     }
 
     img {
-        margin-bottom: 4rem;
+        margin-bottom: 1rem;
     }
 
     p {
@@ -474,7 +474,11 @@ body.subpage > .section.light {
       a {
           position: relative;
           z-index: 999;
-          display: block;
+          display: inline-block;
+
+          &.more-button-wrapper {
+              display: block;
+          }
       }
     }
 

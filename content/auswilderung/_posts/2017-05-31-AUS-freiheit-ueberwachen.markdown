@@ -14,7 +14,9 @@ Die so gewonnenen Erkenntnisse werden für zukünftige Auswilderungen genutzt un
 
 Unser Post-Release Monitoring deckt aktuell riesige Auswilderungsgebiete an allen drei Standorten ab: in Bukti Batikap und im BBBR National Park (Zentral-Kalimantan) sowie in Kejeh Sewen (Ost-Kalimantan). Die Signale der Sender haben eine Reichweite von 400 Metern bis 5 Kilometern – je nachdem wie stark bewaldet und hügelig das Land ist. Mit den personellen und technischen Ressourcen, die uns zur Verfügung stehen, schaffen wir es gerade, knapp 250 ausgewilderte Orang-Utans zu überwachen (Stand Ende 2016).
 
-![]({{ site.baseurl }}/uploads/2017/03/05/Casey%20by%20awal.JPG) [<button class="bos-button large info float-right space-left" id="technische">mehr erfahren »</button>](technische-details.html) 
+![]({{ site.baseurl }}/uploads/2017/03/05/Casey%20by%20awal.JPG) 
+
+{% include more-button.html link="technische-details" %}
 
 Unser Post-Release Monitoring ist ein sehr beschwerlicher und personalintensiver Prozess. Über Monate und bei jedem Wetter folgen unsere Teams den Orang-Utans durch den dichten Regenwald. Insgesamt beschäftigt die BOSF dafür 40 Monitoring Agents. Hinzu kommen Voluntäre, Koordinatoren und unterstützendes Personal wie z.B. Köche. Nebst den Kosten für die technischen Geräte (Implantat/Sender, Empfänger und Antennen) fallen auf Grund der extremen Wetterbedingungen vor Ort erhebliche Kosten für deren Unterhalt an. Oft lassen sich notwendige Reparaturen nur im Ausland (beim Hersteller, u.a. in den USA) durchführen, was nicht nur teuer sondern auch mit langen Wartezeiten verbunden ist.
 

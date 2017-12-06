@@ -13,7 +13,7 @@ Das gilt insbesondere für die verheerenden Waldbrände, die jedes Jahr aufs Neu
 
 Zudem betreffen viele Krankheiten, die in der Region verbreitet sind (z.B. Malaria), Menschen wie Tiere. Hepatitis, Tuberkulose, Herpesviren oder verschiedene Parasiten (v.a. im Magen und Darm) werden aufgrund der engen genetischen Verwandtschaft zwischen Menschen und Orang-Utans übertragen.
 
-[<button class="bos-button large info float-right space-left" id="gesundheit">mehr erfahren »</button>](gesundheit.html)
+{% include more-button.html link="gesundheit" %}
 
 Wir leisten deshalb Aufklärungsarbeit, unterstützen den Aufbau von kleinen lokalen Gesundheitszentren und kümmern uns um eine bessere Ausstattung mit medizinischem Gerät und Medikamenten. Projekte im Bereich Umwelterziehung (die Einführung von Müllentsorgung und -trennung oder eine Verbesserung der Frischwasserversorgung) zielen ebenfalls auf eine gesunde lokale Bevölkerung ab. Diese Massnahmen sind vor allem deshalb wichtig, weil die lokale Bevölkerung nur begrenzten Zugang zu einer verlässlichen Gesundheitsversorgung hat. Insbesondere schwangere Frauen, Neugeborene und Kleinkinder leiden an der Unterversorgung.
 

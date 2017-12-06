@@ -19,7 +19,7 @@ Unser Mikrokreditprogramm startete 2011 mit einem Pilotprojekt in Timpah und wur
 
 Unser Ansatz beruht auf dem TTLS System, nach dem jedes teilnehmende Mitglied einmalig eine Grundeinlage leistet. Zusätzlich fliessen monatliche Beiträge, die der jeweiligen Einkommenssituation gerecht werden, und freiwillige Beiträge in einen gemeinsamen Topf, aus dem die Kleinkredite vergeben werden. BOS Schweiz leistet lediglich eine Anschubfinanzierung. Die Verwaltung und die Vergabe der Gelder obliegen der Gruppe selbst, die damit einen hohen Grad an Selbstbestimmung geniesst. Die Identifikation des Einzelnen mit dem System ist hoch, genau wie die Rückzahlungsmoral. Als Alternative kommen Kreditgenossenschaften in Frage, welche die finanziellen Einlagen für die Kreditnehmenden verwalten und diese in der Nutzung der Kredite trainieren. Oft sind die Kreditgenossenschaften aber für entlegene Dorfgemeinschaften nur schwer erreichbar.
 
-[<button class="bos-button large info float-right space-left" id="mikrokredit">mehr erfahren »</button>](mikrokredit.html)
+{% include more-button.html link="mikrokredit" %}
 
 Auch in den Baumschulen unsrer Aufforstungsprogramme und in den BOS Rettungsstationen schaffen wir vor Ort hunderte Arbeitsplätze. Befristete Einkommensquellen wie die Anstellung auf einer Ölpalmplantage, der Verkauf des eigenen Landes, oder lukrative illegale Aktivitäten wie Holzeinschlag und Wilderei werden dadurch unattraktiver. Die enge Zusammenarbeit mit den dörflichen Gemeinschaften in unmittelbarer Nähe unserer Rettungsstationen geht zudem mit einer wachsenden Wertschätzung der BOSF und ihrem Anliegen einher, d.h. mit einem steigenden lokalen Bewusstsein für den Arten-, den Orang-Utan-, den Natur- und den Umweltschutz.
 

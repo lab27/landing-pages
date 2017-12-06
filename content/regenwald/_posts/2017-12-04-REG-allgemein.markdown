@@ -19,4 +19,3 @@ Die Böden sind oft zu nährstoffarm, als dass sie langfristig agrarwirtschaftli
 
 ![]({{ site.baseurl }}/assets/images/rauschwaden-luft.jpg)
 
-<!-- [<button class="bos-button large info float-right space-left" id="regenwald-allgemein">mehr erfahren »</button>](regenwald-allgemein.html) -->

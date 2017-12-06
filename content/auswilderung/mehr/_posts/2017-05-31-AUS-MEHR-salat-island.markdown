@@ -1,7 +1,7 @@
 ---
 layout: subpage
 permalink: auswilderung/salat-island.html
-backlink: '#salat'
+backlink: '#salat-island'
 title: 'Hintergründe Salat Island'
 date: '2017-05-31 00:10:00'
 ---
