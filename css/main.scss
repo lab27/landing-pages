@@ -430,7 +430,7 @@ body.subpage > .section.light {
     }
 
     h3 {
-        margin-bottom: 3rem;
+        // margin-bottom: 3rem;
     }
 
     @include grid-column(12);
@@ -790,4 +790,20 @@ footer {
     height: 36px;
     margin: 6px;
   }
+}
+
+
+// fluid video
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
