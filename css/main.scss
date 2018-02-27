@@ -1,16 +1,16 @@
----
----
+--- 
+--- 
 @import "settings";
 @import "foundation";
 @import "buttons";
 @import "timeline";
 
-
 /* @import "zig-zag";*/
+
+
 /* @import "piechart";*/
 
 @include foundation-everything;
-
 $maroon: #412227;
 $maroon: #5d283c;
 $pale-maroon: #76686d;
@@ -18,20 +18,17 @@ $peach: #ffb770;
 $almost-white: #fbf9f0;
 $dark-leaves: #f4f2e4;
 $dark-maroon: #58464c;
-
 img {
-  width: 100%;
+    width: 100%;
 }
 
 @-webkit-keyframes slowbounce {
     0% {
         bottom: 24px;
     }
-
     50% {
         bottom: 36px;
     }
-
     100% {
         bottom: 24px;
     }
@@ -41,49 +38,53 @@ img {
     0% {
         bottom: 24px;
     }
-
     50% {
         bottom: 36px;
     }
-
     100% {
         bottom: 24px;
     }
 }
 
 .outlined-black {
-  border:6px solid #333;
+    border: 6px solid #333;
 }
 
 .outlined-red {
-  border:6px solid #f04e27;
+    border: 6px solid #f04e27;
 }
 
 //process dl
 .legend {
-            counter-reset: my-badass-counter;
-            max-width: 30rem;
-            margin: 0 auto;
-		}
-		.legend dt {
-			position: relative;
-			font: bold 16px;
-			padding: 4px 0 0 0;
-		}
-		.legend dt:before {
-			content: counter(my-badass-counter);
-			counter-increment: my-badass-counter;
-			position: absolute;
-			left: 0;
-			top: 0;
-			font: bold 2.5rem/1 $system-font-family;
-		}
-		.legend dd {
-			margin: 0 0 3rem 0;
-		}
-		.legend dt, .legend dd {
-			padding-left: 3rem;
-		}
+    counter-reset: my-badass-counter;
+    max-width: 30rem;
+    margin: 0 auto;
+}
+
+.legend dt {
+    position: relative;
+    font: bold 16px;
+    padding: 4px 0 0 0;
+}
+
+.legend dt:before {
+    content: counter(my-badass-counter);
+    counter-increment: my-badass-counter;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font: bold 2.5rem/1 $system-font-family;
+}
+
+.legend dd {
+    margin: 0 0 3rem 0;
+}
+
+.legend dt,
+.legend dd {
+    padding-left: 3rem;
+}
+
 // svg.timeline-visualization {
 //   font-size: .6rem;
 //   circle {
@@ -94,6 +95,7 @@ img {
 // }
 
 /* @import 'animate';*/
+
 .js-next {
     width: 60px;
     height: 60px;
@@ -106,24 +108,20 @@ img {
     transition: 1s bottom;
     -webkit-animation: slowbounce 2s infinite ease;
     animation: slowbounce 2s infinite ease;
-
     svg {
         width: 60px;
         height: 60px;
     }
-
     &:hover {
         color: $earthy7;
-
         // animation: none;
-
     }
 }
 
-
 .space-bottom {
-  margin-bottom: 1em;
+    margin-bottom: 1em;
 }
+
 #font-name {
     position: fixed;
     top: 12px;
@@ -134,7 +132,6 @@ img {
         // color: dodgerblue;
     }
 }
-
 
 svg {
     fill: currentColor;
@@ -152,35 +149,28 @@ body {
     max-height: 170px;
     position: relative;
     z-index: 0;
-
     &.dark {
         svg {
             fill: $dark-leaves;
         }
     }
-
-        &.final {
-          background: $peach;
-            svg {
-                fill: $dark-leaves;
-            }
+    &.final {
+        background: $peach;
+        svg {
+            fill: $dark-leaves;
         }
-
+    }
     &.light {
-        background:$dark-leaves;
-
+        background: $dark-leaves;
         svg {
             fill: $almost-white;
         }
-
         &.final {
-             background: $peach;
-            }
+            background: $peach;
         }
-        
+    }
     // &:last-child {
     //     background: $peach;
-
     // }
     .subpage & {
         background: $peach;
@@ -194,7 +184,7 @@ body {
     right: -1px;
     z-index: -1;
     fill: rgba($leaves, 0.2);
-    fill: rgba($earthy1,.5);
+    fill: rgba($earthy1, .5);
 }
 
 header {
@@ -206,24 +196,18 @@ header {
     @include breakpoint(medium) {
         @include grid-column(1 of 3);
     }
-
-
     @include breakpoint(large) {
         @include grid-column(1 of 6);
     }
-
-
     ul.menu {
         margin-bottom: 24px;
     }
-
     li {
         line-height: 1;
         margin-bottom: 12px;
         border-bottom: 1px solid $earthy5;
         padding: 6px 0;
     }
-
     li.cat {
         font-weight: 700;
     }
@@ -231,37 +215,33 @@ header {
 
 $pale-green: #E1CC4F;
 $red-orange: #ff5035;
-
 .space-left {
     margin-left: 12px;
 }
+
 .space-above {
-  margin-top: 48px;
+    margin-top: 48px;
 }
+
 .titleblock {
     margin-bottom: 0;
     margin-top: 48px;
-
     @include breakpoint(small only) {
         margin-top: 24px;
     }
-
-
     img.hero {
         // margin-top: -36px;
         margin-bottom: 48px;
         @include breakpoint(medium) {
-          // margin-top: -48px;
-          margin-bottom: 12px;
+            // margin-top: -48px;
+            margin-bottom: 12px;
         }
     }
-
     h1 {
         font-size: 10vw;
         z-index: 10;
         position: relative;
         line-height: 10vw;
-
         // font-family: 'Raleway';
         // font-weight: 700;
         // text-transform: uppercase;
@@ -269,7 +249,6 @@ $red-orange: #ff5035;
             font-size: 5rem;
         }
     }
-
     // .floating-textbox {
     //     position: absolute;
     //     svg {
@@ -278,7 +257,7 @@ $red-orange: #ff5035;
     //         fill: orange;
     //     }
     // }
-  .floating-textbox {
+    .floating-textbox {
         margin-top: -24px;
         margin-bottom: 48px;
         &.give-room {
@@ -287,11 +266,10 @@ $red-orange: #ff5035;
             }
         }
         @include breakpoint(large) {
-          margin-left: 24px;
-          margin-right: 24px;
+            margin-left: 24px;
+            margin-right: 24px;
             max-width: 600px;
             position: absolute;
-
             /* margin-left: 550px;*/
             /* margin-top: -100px;*/
             bottom: 24px;
@@ -306,22 +284,17 @@ $red-orange: #ff5035;
             fill: $fun4;
             z-index: 0;
         }
-
         h3 {
-            position:relative;
+            position: relative;
             z-index: 10;
             border-bottom: 20px solid $earthy7;
             padding-bottom: 1.6rem;
-            background: rgba($earthy7,.3);
-
+            background: rgba($earthy7, .3);
             padding: 1rem;
-
             .auswilderung & {
-                            background: rgba(white,.6);
+                background: rgba(white, .6);
             }
         }
-
-
         span {
             font-family: 'Francois One';
             font-weight: 500;
@@ -331,43 +304,36 @@ $red-orange: #ff5035;
             -webkit-box-decoration-break: clone;
             letter-spacing: -.025rem;
             font-weight: 700;
-
-
             @include breakpoint(small only) {
                 font-size: 1.2rem;
                 line-height: 2rem;
             }
-
-
             @include breakpoint(xxlarge) {
                 font-size: 2rem;
                 line-height: 2.1rem;
             }
-
-
             span.question {
-            font-size: 12px;
-            width: 300px;
-            height: 300px;
-            overflow: hidden;
-            text-align: justify;
-            -webkit-hyphens: manual;
-            hyphens: manual;
-            -webkit-shape-inside: polygon(0px 0px, 0 300px, 300px 300px);
+                font-size: 12px;
+                width: 300px;
+                height: 300px;
+                overflow: hidden;
+                text-align: justify;
+                -webkit-hyphens: manual;
+                hyphens: manual;
+                -webkit-shape-inside: polygon(0px 0px, 0 300px, 300px 300px);
             }
         }
-
         @media screen and (max-aspect-ratio: 4 / 3) {
             bottom: 25%;
         }
-
         @media screen and (orientation: portrait) {
             bottom: 35%;
         }
     }
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Francois One', cursive;
     color: $titles;
     color: $maroon;
@@ -384,36 +350,28 @@ h1 {
 .section {
     @include grid-row;
     @include clearfix;
-    margin:0;
-
-    padding:  0;
+    margin: 0;
+    padding: 0;
     max-width: 100vw;
-
     @include breakpoint(small only) {
         padding: 12px 0;
         // margin-bottom: 24px;
     }
-
-
     &.dark {
         background: $dark-leaves;
     }
-
-
 }
 
-body.subpage > .section.light {
-      margin-top: 80px;
-    }
+body.subpage>.section.light {
+    margin-top: 80px;
+}
 
 .section-title {
-  position: relative;
+    position: relative;
     @include grid-column(12);
-
     h2 {
         text-align: center;
         margin-bottom: 36px;
-
         @include breakpoint(small only) {
             font-size: 1.5rem;
         }
@@ -421,35 +379,29 @@ body.subpage > .section.light {
 }
 
 .section-content {
-  // position: relative;
+    // position: relative;
     h4 {
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: .08rem;
         text-align: center;
     }
-
     h3 {
         // margin-bottom: 3rem;
     }
-
     @include grid-column(12);
     @include breakpoint(medium) {
         @include grid-column(10);
         @include grid-column-offset(1);
         @include grid-column-end;
     }
-
-
     @include breakpoint(large) {
         @include grid-column(8);
         @include grid-column-offset(2);
         @include grid-column-end;
-
         // p {
         //     padding: 0 4rem;
         // }
-
         img {
             // width: calc(100% + 8rem);
             // margin-left: -4rem;
@@ -457,37 +409,40 @@ body.subpage > .section.light {
             // margin-top: 2rem;
         }
     }
-
-
     p.lead {
         margin-bottom: 24px;
     }
-
     img {
         margin-bottom: 1rem;
     }
-
     p {
-      @extend .lead;
-      position: relative;
-
-      a {
-          position: relative;
-          z-index: 999;
-          display: inline-block;
-
-          &.more-button-wrapper {
-              display: block;
-          }
-      }
+        @extend .lead;
+        position: relative;
+        a {
+            position: relative;
+            z-index: 999;
+            display: inline-block;
+            &.more-button-wrapper {
+                display: block;
+            }
+        }
     }
-
     .graphic {
         margin: 48px 0;
-
         @include breakpoint(small only) {
             margin: 12px 0;
         }
+    }
+}
+
+.graphic_svg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 3rem 0;
+    img {
+        max-width: 45rem;
     }
 }
 
@@ -499,19 +454,18 @@ body.subpage > .section.light {
     font-weight: 500;
 }
 
-.top-nav-left, .top-nav-center, .top-nav-right, .mobile-menu-button {
+.top-nav-left,
+.top-nav-center,
+.top-nav-right,
+.mobile-menu-button {
     background-color: none;
     background: none;
-
     @include grid-column(6);
     @include grid-column-collapse;
     @include breakpoint(large) {
         @include grid-column(4);
-
         float: left;
     }
-
-
     @include top-bar-container;
 }
 
@@ -520,10 +474,8 @@ body.subpage > .section.light {
     text-align: right;
     background-color: none;
     background: none;
-
     .menu li {
         float: right;
-
         svg {
             width: 36px;
             height: 36px;
@@ -533,11 +485,9 @@ body.subpage > .section.light {
 
 .top-nav .menu {
     background: none;
-
     li a {
         text-align: center;
     }
-
     /* svg {*/
     /*     width: 48px;*/
     /*     height: 48px;*/
@@ -556,26 +506,22 @@ body.subpage > .section.light {
 
 .top-nav-right {
     background: none;
-
     .menu {
         float: right;
         font-weight: 500;
         font-size: .8rem;
         text-transform: uppercase;
         letter-spacing: .05rem;
-
         svg {
             width: 36px;
             height: 36px;
             margin-bottom: 12px;
         }
-
         li:last-child a {
             background: #earthy1;
             margin-left: 12px;
             -webkit-transition: .2s all;
             transition: .2s all;
-
             &:hover {
                 background: rgba($fun5, 1);
             }
@@ -585,30 +531,22 @@ body.subpage > .section.light {
 
 .top-nav-center {
     background: none;
-
     @include grid-column(12);
     @include grid-column-collapse;
-
     text-align: center;
     padding: 12px;
     margin-bottom: -20px;
-
     @include breakpoint(large) {
         @include grid-column(4);
     }
-
-
     ul {
         /* position: absolute;*/
         top: 18px;
         background: none;
-
         /* margin-left: -4%;*/
     }
-
     li {
         background: none;
-
         a {
             margin: 3px;
             box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
@@ -622,21 +560,17 @@ body.subpage > .section.light {
             transition: .2s all;
             font-size: 3vw;
             padding: 18px 6px;
-
             &:hover {
                 margin-top: -10px;
                 box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
             }
-
             svg {
                 width: 24px;
                 height: 24px;
                 margin-bottom: 12px;
             }
-
             @include breakpoint(medium) {
                 font-size: 1rem;
-
                 svg {
                     width: 48px;
                     height: 48px;
@@ -644,13 +578,14 @@ body.subpage > .section.light {
             }
         }
     }
-
-    li:first-child a, li:nth-child(2) a, li:last-child a {
+    li:first-child a,
+    li:nth-child(2) a,
+    li:last-child a {
         padding: 16px 6px;
     }
 }
 
-.top-nav-center ul li > a {
+.top-nav-center ul li>a {
     color: $pale-maroon;
 }
 
@@ -667,27 +602,25 @@ body.subpage > .section.light {
     top: 0;
     padding-top: 60px;
     text-align: center;
-
     #helptext {
         /* max-width: 45em;*/
         margin: 0 auto;
         text-align: left;
         color: $dark-maroon;
-
         a {
-          color: $dark-maroon;
-          &:hover {
-            color: black;
-          }
+            color: $dark-maroon;
+            &:hover {
+                color: black;
+            }
         }
-
         p {
             color: $earthy5;
         }
     }
 }
 
-#close-help, #close-advice {
+#close-help,
+#close-advice {
     width: 44px;
     height: 44px;
     background: white;
@@ -699,7 +632,6 @@ body.subpage > .section.light {
     position: fixed;
     right: 24px;
     top: 24px;
-
     span {
         margin-top: -6px;
         display: block;
@@ -708,106 +640,102 @@ body.subpage > .section.light {
     }
 }
 
-
 footer {
-  padding: 12px;
-
-  div {
-    position: relative;
-  }
-  @include breakpoint(medium){
-    padding: 24px;
-  }
-  background: $peach;
-  .footer-left, .footer-right, .footer-middle {
-    width: 100%;
-    float: left;
-    margin-bottom: 24px;
-    margin:0 0 24px 0;
-    padding: 0;
-
+    padding: 12px;
+    div {
+        position: relative;
+    }
     @include breakpoint(medium) {
-      width: 33.33%;
-      padding-right: 24px;
+        padding: 24px;
     }
-  }
-  h2 {
-    margin-bottom: 36px;
-  }
-  h4 {
-    font-weight: 700;
-    margin-bottom: 24px;
-  }
-  h5 {
-    font-weight: 700;
-  }
-  p {
-    line-height: 1.2;
-  }
-  a {
-      color: $pale-maroon;
-      font-weight: 700;
-      text-decoration: underline;
-      
-      &:hover {
-        color:$earthy5;
+    background: $peach;
+    .footer-left,
+    .footer-right,
+    .footer-middle {
+        width: 100%;
+        float: left;
+        margin-bottom: 24px;
+        margin: 0 0 24px 0;
+        padding: 0;
+        @include breakpoint(medium) {
+            width: 33.33%;
+            padding-right: 24px;
+        }
     }
-  }
-
-  ul {
-    list-style: none;
-    list-style-position: outside;
-    margin-left: 0;
-    li a {
-      color: $pale-maroon;
+    h2 {
+        margin-bottom: 36px;
     }
-  }
+    h4 {
+        font-weight: 700;
+        margin-bottom: 24px;
+    }
+    h5 {
+        font-weight: 700;
+    }
+    p {
+        line-height: 1.2;
+    }
+    a {
+        color: $pale-maroon;
+        font-weight: 700;
+        text-decoration: underline;
+        &:hover {
+            color: $earthy5;
+        }
+    }
+    ul {
+        list-style: none;
+        list-style-position: outside;
+        margin-left: 0;
+        li a {
+            color: $pale-maroon;
+        }
+    }
 }
 
 .social-share {
-  margin-top: 48px;
-  @include breakpoint(large){
-    margin-top: 12px;
-  }
-  a {
-    
-    color: $dark-maroon;
-    margin-right: 12px;
-    &:hover {
-      color: $maroon;
+    margin-top: 48px;
+    @include breakpoint(large) {
+        margin-top: 12px;
     }
-  }
-  svg {
-    width: 24px;
-    height: 24px;
-  }
+    a {
+        color: $dark-maroon;
+        margin-right: 12px;
+        &:hover {
+            color: $maroon;
+        }
+    }
+    svg {
+        width: 24px;
+        height: 24px;
+    }
 }
 
 .share-buttons {
-  a {
-    color: $dark-maroon;
-
-  }
-  padding: 24px;
-  svg {
-    width: 36px;
-    height: 36px;
-    margin: 6px;
-  }
+    a {
+        color: $dark-maroon;
+    }
+    padding: 24px;
+    svg {
+        width: 36px;
+        height: 36px;
+        margin: 6px;
+    }
 }
-
 
 // fluid video
 .videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 */
+    padding-top: 25px;
+    height: 0;
 }
+
 .videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
