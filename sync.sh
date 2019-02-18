@@ -21,7 +21,7 @@ tmp=$(mktemp --suffix=.html)
 # /entwicklung/mawas.html              -> /f/nachhaltige-entwicklung/mawas.htm
 # /entwicklung/mikrokredit.html        -> /f/nachhaltige-entwicklung/mikrokredit.htm
 
-base='http://born2bewild.org/landing-pages/auswilderung'
+base='https://born2bewild.org/landing-pages/auswilderung'
 target='/f/auswilderungen'
 
 # retrieve html from primary hosting into temp file
@@ -57,7 +57,7 @@ sed -i "s|$base/#technische-details|$target.htm#technische-details|" $tmp
 aws s3 cp --acl public-read $tmp $prefix$target/technische-details.htm
 
 
-base='http://born2bewild.org/landing-pages/entwicklung'
+base='https://born2bewild.org/landing-pages/entwicklung'
 target='/f/nachhaltige-entwicklung'
 
 # retrieve html from primary hosting into temp file
